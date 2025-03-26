@@ -426,7 +426,7 @@
       </ReturnValue>
       <Docs>
         <summary>Determines whether voiceover is currently active.</summary>
-        <value>eturns a Boolean indicating whether voiceover is enabled.
+        <value>Returns a Boolean indicating whether voiceover is enabled.
         </value>
         <remarks>
         </remarks>
